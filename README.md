@@ -2,6 +2,10 @@
 
 Este projeto é um estudo de caso de análise de dados de consumo em estabelecimentos comerciais, utilizando a biblioteca **Pandas** para manipulação de dados e **Matplotlib/Seaborn** para visualização.
 
+## 📊 Visualização da Análise
+
+![Análise de Consumo](grafico_analise.png)
+
 ## 📊 Objetivo do Projeto
 O objetivo principal é analisar o comportamento de consumo dos clientes, identificando:
 - A quantidade de consumo por pessoa em diferentes estabelecimentos.
