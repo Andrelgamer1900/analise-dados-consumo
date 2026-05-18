@@ -5,6 +5,7 @@ Este projeto é um estudo de caso de análise de dados de consumo em estabelecim
 ## 📊 Visualização da Análise
 
 ![Análise de Consumo](grafico_analise.png)
+![Análise dos Top 5](graficotop5.png)
 
 ## 📊 Objetivo do Projeto
 O objetivo principal é analisar o comportamento de consumo dos clientes, identificando:
